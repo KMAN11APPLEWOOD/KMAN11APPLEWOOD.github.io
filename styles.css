@@ -1,0 +1,32 @@
+body {
+    font-family: "Times New Roman";
+}
+
+nav {
+    position:fixed;
+    outline-style: auto;
+    background-color: lightgray;
+    border-radius: 25px;
+}
+
+nav a {
+    font-size: 2vw;
+    text-decoration: solid;
+    margin: 1vw;
+}
+
+nav a:visited {
+    color: gray ;
+}
+
+nav a:hover {
+    background-color: gray;
+}
+
+
+
+h1 {
+    font-size: 8vw;
+    text-align: center;
+    color: red;
+}
